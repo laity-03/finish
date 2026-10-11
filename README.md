@@ -1,6 +1,6 @@
 # finish
 
-STM32F103 角度闭环控制固件（CLion + CMake + Ninja + arm-none-eabi-gcc）。
+STM32F103 角度闭环控制固件。
 
 ## 功能
 
